@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1088894888196",
+    "firebase_url": "https://heroes-agaist-titans.firebaseio.com",
+    "project_id": "heroes-agaist-titans",
+    "storage_bucket": "heroes-agaist-titans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088894888196:android:42e63f5e3c47360f",
+        "android_client_info": {
+          "package_name": "com.Escandiuzzi.HATRPG"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088894888196-pcico9fo3q7n9ab7tnh6c22ut6svkuhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjnF0EzFuifom6MIYqaWoKWyC6BY_1apI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
